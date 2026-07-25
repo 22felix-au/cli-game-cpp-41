@@ -7,3 +7,5 @@ Clone this repository and run the script:
 ```bash
 git clone https://github.com/22felix-au/cli-game-cpp-41.git
 ```
+
+*Initialized by secops-coder-14 workspace automation.*
